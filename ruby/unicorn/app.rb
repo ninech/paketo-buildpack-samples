@@ -8,7 +8,6 @@ get '/' do
     </head>
     <body>
       <img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://paketo.io/images/paketo-logo-full-color.png"></img>
-      <p>Hosted on deplo.io</p>
     </body>
   </html>'
 end
